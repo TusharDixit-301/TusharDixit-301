@@ -5,7 +5,9 @@
 
 <div align = center>
 <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 200px>
-<h2> About Me </h2>
+  
+# **`About Me`** 
+  
 </div> 
   
 - 🔭 I’m currently working on **Online Voting System**
