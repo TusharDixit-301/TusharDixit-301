@@ -1,5 +1,5 @@
-<div align=center >
-<h1>Hello <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> , I am <a href = "https://bio.link/tushardixit" target="_blank"> Tushar</a> </h1>
+
+<h1 align = center>Hello <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> , I am <a href = "https://bio.link/tushardixit" target="_blank"> Tushar</a> </h1>
 </div>
 
 <div align = center>
@@ -41,9 +41,10 @@
 <div align = center>
 <img src= "https://github.com/TusharDixit-301/TusharDixit-301/blob/output/github-contribution-grid-snake.gif">
 </div>
-
-
-
+<div>
+<h2 align> My GitHub Stats </h2>
+<img  margin="0px" src="https://github-readme-stats.vercel.app/api?username=TusharDixit-301&show_icons=true&locale=en&theme=chartreuse-dark" alt="TusharDixit-301" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=TusharDixit-301&theme=chartreuse-dark" alt="TusharDixit-301" />
+</div>
 
 
 
