@@ -1,4 +1,5 @@
 
+
 <h1 align = center>Hello <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> , I am <a href = "https://bio.link/tushardixit" target="_blank"> Tushar</a> </h1>
 </div>
 
@@ -51,4 +52,6 @@
 
 
 <h1></h1>
+<div align=center><img src="https://github.com/TusharDixit-301/TusharDixit-301/blob/main/assests/giphy.gif" ></div>
 <h2 align = center >Thank You for taking the time to view my GitHub Profile </h2>
+
