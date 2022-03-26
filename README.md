@@ -43,7 +43,8 @@
 </div>
 <div>
 <h2 align> My GitHub Stats </h2>
-<img  margin="0px" src="https://github-readme-stats.vercel.app/api?username=TusharDixit-301&show_icons=true&locale=en&theme=chartreuse-dark" alt="TusharDixit-301" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=TusharDixit-301&theme=chartreuse-dark" alt="TusharDixit-301" />
+<img align=center  margin="0px" src="https://github-readme-stats.vercel.app/api?username=TusharDixit-301&show_icons=true&locale=en&theme=chartreuse-dark" alt="TusharDixit-301" />
+<img align=center src="https://github-readme-streak-stats.herokuapp.com/?user=TusharDixit-301&theme=chartreuse-dark" alt="TusharDixit-301" />
 </div>
 
 
