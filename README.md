@@ -29,6 +29,13 @@
 <a href = 'https://twitter.com/tushardixit371'> <img width = '26px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>&nbsp 
 <a href = 'https://github.com/TusharDixit-301'> <img width = '26px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 </p>
+<div>
+<h2 align = center> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<div align = center><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@tushardixit_301&compact=True"/></div>
+</a>
+</div>
+
 <!--Snake Graph  -->
 <h2 align = center> Snake Eating My Contri. 😄 </h2>
 <div align = center>
