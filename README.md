@@ -22,13 +22,14 @@
 <a> <img width ='26px' src ='https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg'> </a>&nbsp
 <a> <img width ='20px' src ='https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg'> </a>
 </p>
-
+<!--media  -->
 <h2 align=center> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align=center>
 <a href = 'https://www.linkedin.com/in/tushar-dixit301'> <img width = '26px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>&nbsp
 <a href = 'https://twitter.com/tushardixit371'> <img width = '26px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>&nbsp 
 <a href = 'https://github.com/TusharDixit-301'> <img width = '26px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 </p>
+<!--Snake Graph  -->
 <h2 align = center> Snake Eating My Contri. 😄 </h2>
 <div align = center>
 <img src= "https://github.com/TusharDixit-301/TusharDixit-301/blob/output/github-contribution-grid-snake.gif">
