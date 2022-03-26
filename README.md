@@ -1,21 +1,12 @@
 ## <p align="center">Hello  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> , I am [Tushar!](https://bio.link/tushardixit) 
-
-
-
-  
+ 
 ## <p align='center'>Thank You for taking the time to view my GitHub Profile 
+## <p align='center'> <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 200px>
+<h2> About Me </h2> 
+  
+- 🔭 I’m currently working on **Modern layouts**
+- 🌱 I’m currently learning **Blockchain**
+- 💬 Talk to me about **Python, Freelancing Opportunites, Open Source, Blockchain, Machine Learning**
+- 📫 I'm active on [Linkedin](https://www.linkedin.com/in/tushar-dixit301/)
+- ⚡ Secret fact: I'm Coffee lover🍵
 
-<!--
-**TusharDixit-301/TusharDixit-301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
