@@ -14,16 +14,21 @@
 - ⚡ Secret fact: I'm Tea lover🍵
 
 <h2 align = center> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 42px> </h2>
-<p>
+<p align=center>
 <a> <img width ='26px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg' > </a>&nbsp
 <a> <img width ='26px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/leet-code.svg'> </a>&nbsp
 <a> <img width ='26px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/opencv.svg'> </a>&nbsp
 <a> <img width ='20px' src ='https://upload.wikimedia.org/wikipedia/commons/5/5d/Duke_%28Java_mascot%29_waving.svg'> </a>&nbsp
 <a> <img width ='26px' src ='https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg'> </a>&nbsp
 <a> <img width ='20px' src ='https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg'> </a>
-  
-  </p>
+</p>
 
+<h2 align=center> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<p align=center>
+<a href = 'https://www.linkedin.com/in/tushar-dixit301'> <img width = '26px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>&nbsp
+<a href = 'https://twitter.com/tushardixit371'> <img width = '26px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>&nbsp 
+<a href = 'https://github.com/TusharDixit-301'> <img width = '26px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+</p>
 <h2 align = center> Snake Eating My Contri. 😄 </h2>
 <div align = center>
 <img src= "https://github.com/TusharDixit-301/TusharDixit-301/blob/output/github-contribution-grid-snake.gif">
