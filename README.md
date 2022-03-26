@@ -1,12 +1,9 @@
-<h1> Hello  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> , I am [Tushar!](https://bio.link/tushardixit) </h1>
+## <p align="center">Hello  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> , I am [Tushar!](https://bio.link/tushardixit) 
 
 
 
   
-<p align='center'>
-<div size='20px'>Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
-</p>
+## <p align='center'>Thank You for taking the time to view my GitHub Profile 
 
 <!--
 **TusharDixit-301/TusharDixit-301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
