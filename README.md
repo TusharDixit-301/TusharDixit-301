@@ -1,4 +1,12 @@
-### Hello  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> , I'm [Tushar!](https://bio.link/tushardixit)
+<h1> Hello  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> , I am [Tushar!](https://bio.link/tushardixit) </h1>
+
+
+
+  
+<p align='center'>
+<div size='20px'>Thank You for taking the time to view my GitHub Profile :smile: 
+</div>
+</p>
 
 <!--
 **TusharDixit-301/TusharDixit-301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
