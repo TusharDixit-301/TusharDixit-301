@@ -10,8 +10,8 @@
   
 </div> 
   
-- 🔭 I’m currently working on **Online Voting System**
-- 🌱 I’m currently learning **Blockchain, OpenCv, Kotlin**
+- 🔭 I’m currently working on **Liquity Protocol**
+- 🌱 I’m currently learning **Blockchain**
 - 💬 Talk to me about **Python, Freelancing Opportunites, Open Source, Blockchain, Machine Learning**
 - 📫 I'm active on [Linkedin](https://www.linkedin.com/in/tushar-dixit301/)
 - ⚡ Secret fact: I'm Tea lover🍵
