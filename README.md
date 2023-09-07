@@ -1,6 +1,6 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://github.com/TusharDixit-301/TusharDixit-301/blob/main/assests/Black%20Neon%20Modern%20Gaming%20Twitch%20Banner.gif)
 
-<h1 align = center> <b>Hello</b>  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> , I am <a href = "https://bio.link/tushardixit" target="_blank"> Tushar</a> </h1>
+<h1 align = center> <b>Hello</b>  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> , I am <a href = "https://tushardixit.vercel.app/" target="_blank"> Tushar</a> </h1>
 
 
 
@@ -12,7 +12,7 @@ A **full-stack blockchain developer** with a passion for crafting secure, effici
 
 <h2 align = center>
   
-  **`Skills`**  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 42px> </h2>
+  **`Skills`**  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"  style="margin-top:15px;" width = 30px> </h2>
 
 <p align="center">
   <a> <img alt="HTML" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-plain.svg"/> </a> 
@@ -40,7 +40,7 @@ A **full-stack blockchain developer** with a passion for crafting secure, effici
 <!--media  -->
 <h2 align=center>
   
-  **`Connect with me`** <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+  **`Connect with me`** <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h2>
 <p align=center>
 <a href = 'https://www.linkedin.com/in/tushar-dixit301'> <img width = '26px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>&nbsp
 <a href = 'https://twitter.com/tushardixit371'> <img width = '26px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>&nbsp 
@@ -51,12 +51,12 @@ A **full-stack blockchain developer** with a passion for crafting secure, effici
 
 **`My GitHub Stats`** </h2>
 
-<div align=center ><img  src="https://github-readme-stats.vercel.app/api?username=TusharDixit-301&show_icons=true&locale=en&theme=chartreuse-dark" alt="TusharDixit-301" /> </div>
+<!--<div align=center ><img  src="https://github-readme-stats.vercel.app/api?username=TusharDixit-301&show_icons=true&locale=en&theme=chartreuse-dark" alt="TusharDixit-301" /> </div> -->
+
 <div align=center><img  src="https://github-readme-streak-stats.herokuapp.com/?user=TusharDixit-301&theme=chartreuse-dark" alt="TusharDixit-301" />
 </div>
+<!-- <div align=center><img src="https://github.com/TusharDixit-301/TusharDixit-301/blob/main/assests/giphy.gif" ></div> -->
 
-<h1></h1>
-<div align=center><img src="https://github.com/TusharDixit-301/TusharDixit-301/blob/main/assests/giphy.gif" ></div>
 <h2 align = center > 
   
   **`Thank You for taking the time to view my GitHub Profile`**
