@@ -13,6 +13,7 @@ A **full-stack blockchain developer** with a passion for crafting secure, effici
 <h2 align = left>
   
   **`Skills`**  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"  style="margin-top:15px;" width = 30px> </h2>
+<p align= left>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,tailwind)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=express,nest,mongo,postgres,redis,docker,nodejs,prisma)](https://skillicons.dev)
@@ -22,6 +23,7 @@ A **full-stack blockchain developer** with a passion for crafting secure, effici
 <a> <img alt="CSS" width="50px" style="padding-right:10px;" src="https://github.com/TusharDixit-301/TusharDixit-301/blob/main/assests/Hardhat.png"/> </a>
 <a> <img alt="CSS" width="50px" style="padding-right:10px;" src="https://github.com/TusharDixit-301/TusharDixit-301/blob/main/assests/Wagmi.png"/> </a>
 
+</p>
 
 <!--media  -->
 <h2 align=left>
