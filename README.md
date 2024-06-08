@@ -28,7 +28,9 @@ A **full-stack blockchain developer** with a passion for crafting secure, effici
   
   **`Connect with me`** <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h2>
   
-  [![My Skills](https://skillicons.dev/icons?i=linkedin,twitter,github)](https://www.linkedin.com/in/tushar-dixit301/)
+  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tushar-dixit301/)
+  [![My Skills](https://skillicons.dev/icons?i=twitter)](https://www.linkedin.com/in/tushar-dixit301/)
+  [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/TusharDixit-301)
 
 <div>
 <h2 align = left>
